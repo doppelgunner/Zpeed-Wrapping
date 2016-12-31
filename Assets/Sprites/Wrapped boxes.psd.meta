@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: ef5f2b528bc4da14297d4beb1be1d997
+timeCreated: 1482938613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gun_plain_wrapper
+    21300002: gun_polka_wrapper
+    21300004: gun_stripes_wrapper
+    21300006: doll_plain_wrapper
+    21300008: doll_polka_wrapper
+    21300010: doll_stripes_wrapper
+    21300012: doll_ribbon_wrapper
+    21300014: gun_ribbon_wrapper
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gun_plain_wrapper
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1071
+        width: 811
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gun_polka_wrapper
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1062
+        width: 807
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gun_stripes_wrapper
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1039
+        width: 810
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doll_plain_wrapper
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 582
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doll_polka_wrapper
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 621
+        width: 583
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doll_stripes_wrapper
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 615
+        width: 587
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doll_ribbon_wrapper
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 416
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gun_ribbon_wrapper
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 99
+        width: 658
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: spritesheet
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
