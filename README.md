@@ -2,6 +2,8 @@
 My 1st christmas challenge to myself
 
 * Play the game here: https://doppelgunner.itch.io/zpeed-wrapping
+* Youtube process: https://youtu.be/LmmBQQynxU8
+* Youtube game demo: https://youtu.be/_f6jS-_wKuM
 
 * My Accounts 
   * [blogspot](http://doppelgunner.blogspot.com/)
